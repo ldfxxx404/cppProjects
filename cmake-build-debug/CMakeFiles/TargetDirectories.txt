@@ -1,0 +1,3 @@
+/home/lxmxr/Git/cppProjects/cmake-build-debug/CMakeFiles/cppProjects.dir
+/home/lxmxr/Git/cppProjects/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lxmxr/Git/cppProjects/cmake-build-debug/CMakeFiles/rebuild_cache.dir
