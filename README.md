@@ -1,2 +1,2 @@
-# cppProjects
-My repository with C++ educational projects
+
+My C++ educational project
